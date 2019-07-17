@@ -1,0 +1,2 @@
+qt_ros_demo2:qt_ros_demo3
+-DCATKIN_DEVEL_PREFIX=/home/zhen/catkin_ws4/devel -DCMAKE_INSTALL_PREFIX=/home/zhen/catkin_ws4/install -G Unix Makefiles
